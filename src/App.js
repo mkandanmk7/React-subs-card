@@ -1,3 +1,5 @@
+import "./App.css";
+
 function Card(props) {
   let user = (
     <p>
