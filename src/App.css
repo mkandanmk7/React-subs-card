@@ -14,14 +14,14 @@ body {
   top: 5rem;
   gap: 1rem;
 }
-.outerContainer .card {
-  background-color: white;
+.outerContainer > .card {
+  background-color: #acd;
   width: 25rem;
   border-radius: 10px;
   padding: 20px;
   transition: all 0.2s linear;
 }
-.outerContainer .card .header {
+.header {
   text-align: center;
   opacity: 0.5;
 }
